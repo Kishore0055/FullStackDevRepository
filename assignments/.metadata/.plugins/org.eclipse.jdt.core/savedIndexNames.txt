@@ -1,0 +1,4 @@
+INDEX VERSION 1.134+D:\TEMP\assignments\.metadata\.plugins\org.eclipse.jdt.core
+430518483.index
+1865797976.index
+1771343068.index
